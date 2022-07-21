@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Bank APP\DCity\bin\Debug\net5.0\DCity.exe
+C:\Users\hp\Desktop\Bank APP\DCity\bin\Debug\net5.0\DCity.deps.json
+C:\Users\hp\Desktop\Bank APP\DCity\bin\Debug\net5.0\DCity.runtimeconfig.json
+C:\Users\hp\Desktop\Bank APP\DCity\bin\Debug\net5.0\DCity.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Bank APP\DCity\bin\Debug\net5.0\DCity.dll
+C:\Users\hp\Desktop\Bank APP\DCity\bin\Debug\net5.0\DCity.pdb
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.dll
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\refint\DCity.dll
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.pdb
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\DCity.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bank APP\DCity\obj\Debug\net5.0\ref\DCity.dll
